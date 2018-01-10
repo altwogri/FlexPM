@@ -5,7 +5,7 @@
       "type": "string",
       "selector": "body",
       "control": "property.innerText",
-      "selectContains": "login username"
+      "selectContains": "username"
     },
     "password": {
       "type": "string",
