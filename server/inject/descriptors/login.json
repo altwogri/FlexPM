@@ -3,7 +3,7 @@
   "properties": {
     "username": {
       "type": "string",
-      "selector": "#inputs",
+      "selector": "#ctl00_MainContent_name",
       "control": "text",
       "selectContains": "login username"
     },
