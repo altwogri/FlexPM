@@ -19,7 +19,7 @@
     },
     "sessionid": {
       "type": "string",
-      "selector": "baseURI",
+      "selector": "#ctl00_Head",
       "control": "text"
     }
   },
