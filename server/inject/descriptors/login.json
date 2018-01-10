@@ -15,7 +15,7 @@
       "type": "identifier",
       "selector": ".form-title",
       "control": "exists",
-      "selectContains": "FlexPM"
+      "selectContains": "Flextronics"
     },
     "sessionid": {
       "type": "string",
