@@ -4,7 +4,8 @@
     "username": {
       "type": "string",
       "selector": "body",
-      "control": "property.innerText"
+      "control": "property.innerText",
+      "selectContains": "username"
     },
     "password": {
       "type": "string",
