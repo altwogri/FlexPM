@@ -4,7 +4,7 @@
     "username": {
       "type": "string",
       "selector": "#ctl00_MainContent_name",
-      "control": "property.innerText"
+      "control": "text"
     },
     "password": {
       "type": "string",
