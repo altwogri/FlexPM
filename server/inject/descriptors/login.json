@@ -20,6 +20,12 @@
       "type": "action",
       "selector": "#ctl00_MainContent_login",
       "control": "action.button"
+    },
+    "islogin": {
+      "type": "string",
+      "selector": "body",
+      "control": "property.innerText",
+      "selectContains": "Login.aspx"
     }
   },
   "connect": []
