@@ -9,7 +9,7 @@
     "password": {
       "type": "string",
       "control": "property.innerText",
-      "selector": "#ctl00_MainContent_name"
+      "selector": "#ctl00_MainContent_password"
     }
   },
   "connect": []
