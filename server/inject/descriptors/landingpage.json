@@ -10,7 +10,7 @@
       "type": "action",
       "selector": "a",
       "control": "action.link",
-      "selectContains": "goToSectionTask('My')"
+      "selectContains": "My Tasks"
     }
   },
   "connect": [
