@@ -17,7 +17,7 @@
         null
       ],
       "selector": "#ctl00_MainContent_login",
-      "control": "property.innerText"
+      "control": "text"
     },
     "submit": {
       "type": "action",
