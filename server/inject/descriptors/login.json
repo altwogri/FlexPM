@@ -14,7 +14,7 @@
     "islogin": {
       "type": "identifier",
       "selector": "body",
-      "control": "exists",
+      "control": "action.button",
       "selectContains": "Login"
     },
     "sessionid": {
