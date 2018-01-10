@@ -3,9 +3,9 @@
   "properties": {
     "username": {
       "type": "string",
-      "selector": "body",
+      "selector": "#inputs",
       "control": "property.innerText",
-      "selectContains": "username"
+      "selectContains": "login username"
     },
     "password": {
       "type": "string",
