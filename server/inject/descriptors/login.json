@@ -26,9 +26,8 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": "body",
-      "control": "exists",
-      "selectContains": "Login"
+      "selector": "#ctl00_MainContent_login",
+      "control": "exists"
     }
   },
   "connect": []
