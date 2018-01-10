@@ -1,5 +1,11 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "islanding": {
+      "type": "identifier",
+      "selector": ".main_container",
+      "control": "exists"
+    }
+  },
   "connect": []
 }
