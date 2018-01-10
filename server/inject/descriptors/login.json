@@ -24,7 +24,7 @@
     },
     "submit": {
       "type": "action",
-      "selector": ".button",
+      "selector": "#actions",
       "control": "action.button",
       "selectContains": "Submit"
     }
