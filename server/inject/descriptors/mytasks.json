@@ -15,8 +15,7 @@
           "task": {
             "type": "string",
             "selector": ".dxgv",
-            "control": "property.innerText",
-            "selectContains": "-"
+            "control": "property.innerText"
           }
         }
       }
