@@ -8,7 +8,7 @@
     },
     "task": {
       "type": "array",
-      "selectorAll": ".dxgvCSD",
+      "selectorAll": ".dxgvSelectedRow_PlasticBlue",
       "items": {
         "type": "object",
         "properties": {}
