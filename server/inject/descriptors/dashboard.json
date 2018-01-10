@@ -9,18 +9,15 @@
     },
     "clickmytasks": {
       "type": "action",
-      "selector": "#page-heading",
-      "control": "property.innerText"
+      "selector": ".dxtv-nd",
+      "control": "action.link",
+      "selectContains": "My"
     }
   },
   "connect": [
     {
-      "match": [
-        "isdashboard",
-        "isdashboard"
-      ],
-      "action": "clickmytasks",
-      "model": "dashboard"
+      "match": [],
+      "action": "clickmytasks"
     }
   ]
 }
