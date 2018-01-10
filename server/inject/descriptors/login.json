@@ -13,7 +13,7 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": "#ctl00_MainContent_divLogin",
+      "selector": "body",
       "control": "exists",
       "selectContains": "Login"
     }
