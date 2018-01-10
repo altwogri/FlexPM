@@ -14,9 +14,8 @@
         "properties": {
           "task": {
             "type": "string",
-            "selector": "tr",
-            "control": "property.innerText",
-            "selectIndex": 2
+            "selector": "td",
+            "control": "property.innerText"
           }
         }
       }
