@@ -10,6 +10,12 @@
       "type": "string",
       "control": "property.innerText",
       "selector": "#ctl00_MainContent_password"
+    },
+    "islogin": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "exists",
+      "selectContains": "Login.aspx"
     }
   },
   "connect": []
