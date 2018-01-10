@@ -3,7 +3,7 @@
   "properties": {
     "username": {
       "type": "string",
-      "selector": "div",
+      "selector": "#ctl00_MainContent_name",
       "control": "property.innerText",
       "selectContains": "username"
     },
