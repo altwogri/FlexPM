@@ -19,9 +19,8 @@
     },
     "sessionid": {
       "type": "string",
-      "selector": "script",
-      "control": "text",
-      "selectContains": "fivCommon"
+      "selector": "baseURI",
+      "control": "text"
     }
   },
   "connect": []
