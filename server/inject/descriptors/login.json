@@ -23,7 +23,7 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": ".body",
+      "selector": "body",
       "control": "exists",
       "selectContains": "Login.aspx"
     }
