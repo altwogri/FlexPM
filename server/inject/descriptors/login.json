@@ -3,7 +3,7 @@
   "properties": {
     "username": {
       "type": "string",
-      "selector": "#ctl00_MainContent_name",
+      "selector": "title",
       "control": "text"
     },
     "password": {
