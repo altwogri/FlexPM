@@ -8,7 +8,7 @@
     },
     "clicktasks": {
       "type": "action",
-      "selector": ".icon-DevelopmentTask",
+      "selector": ".dxtv-ndTxt.dx-vam",
       "control": "action.link"
     }
   },
