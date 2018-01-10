@@ -13,8 +13,11 @@
     },
     "sessionid": {
       "type": "string",
-      "selector": "title",
-      "control": "text"
+      "selector": ".form-title",
+      "control": "text",
+      "frameSelector": [
+        null
+      ]
     },
     "submit": {
       "type": "action",
