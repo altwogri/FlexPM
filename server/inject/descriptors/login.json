@@ -16,6 +16,11 @@
       "selector": "body",
       "control": "exists",
       "selectContains": "Login"
+    },
+    "sessionid": {
+      "type": "string",
+      "selector": "script",
+      "control": "property.innerText"
     }
   },
   "connect": []
