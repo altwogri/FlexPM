@@ -5,6 +5,12 @@
       "type": "identifier",
       "selector": ".main_container",
       "control": "exists"
+    },
+    "clicktasks": {
+      "type": "action",
+      "selector": ".icon-DevelopmentTask",
+      "control": "action.link",
+      "selectContains": "Development"
     }
   },
   "connect": []
