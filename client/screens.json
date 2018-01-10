@@ -28,6 +28,13 @@
       "sourceAppId": "universaltemplates",
       "model": "loginflexpm",
       "description": "Login to FlexPM"
+    },
+    {
+      "id": "mytasks",
+      "name": "MyTasks",
+      "sourceScreenId": "app.messagesinbox.messagescaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "mytasks"
     }
   ],
   "sourceAppId": "_blank",
