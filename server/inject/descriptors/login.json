@@ -21,6 +21,12 @@
       "type": "string",
       "selector": "#ctl00_Head",
       "control": "text"
+    },
+    "submit": {
+      "type": "action",
+      "selector": ".button",
+      "control": "action.button",
+      "selectContains": "Submit"
     }
   },
   "connect": []
