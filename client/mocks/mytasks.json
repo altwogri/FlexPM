@@ -1,34 +1,34 @@
 {
-  "messages": [
+  "mytasks": [
     {
-      "subject": "Subject Line 1",
-      "from": "from1@test.com",
-      "date": "Dec 01, 2016",
-      "messageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "Subject Line 1",
+      "topic": "from1@test.com",
+      "subgroup": "Dec 01, 2016",
+      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-      "subject": "Subject Line 2",
-      "from": "from2@test.com",
-      "date": "Dec 01, 2016",
-      "messageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "Subject Line 2",
+      "topic": "from2@test.com",
+      "subgroup": "Dec 01, 2016",
+      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-      "subject": "Subject Line 3",
-      "from": "from3@test.com",
-      "date": "Dec 01, 2016",
-      "messageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "Subject Line 3",
+      "topic": "from3@test.com",
+      "subgroup": "Dec 01, 2016",
+      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-      "subject": "Subject Line 4",
-      "from": "from4@test.com",
-      "date": "Dec 01, 2016",
-      "messageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "Subject Line 4",
+      "topic": "from4@test.com",
+      "subgroup": "Dec 01, 2016",
+      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-      "subject": "Subject Line 5",
-      "from": "from5@test.com",
-      "date": "Dec 01, 2016",
-      "messageContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "Subject Line 5",
+      "topic": "from5@test.com",
+      "subgroup": "Dec 01, 2016",
+      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]
 }

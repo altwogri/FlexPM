@@ -47,29 +47,29 @@
     "type": "object",
     "comment": "Messages",
     "properties": {
-      "messages": {
+      "mytasks": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "subject": {
+            "action": {
+              "type": "action"
+            },
+            "task": {
               "type": "string",
               "label": "Subject"
             },
-            "from": {
+            "topic": {
               "type": "string",
               "label": "From"
             },
-            "date": {
+            "subgroup": {
               "type": "string",
               "label": "Date"
             },
-            "messageContent": {
+            "state": {
               "type": "string",
               "label": "MessageContent"
-            },
-            "action": {
-              "type": "action"
             }
           }
         },
