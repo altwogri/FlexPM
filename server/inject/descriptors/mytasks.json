@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "ismytasks": {
+      "type": "identifier",
+      "selector": "#ctl00_MainContent_lblTskSection",
+      "control": "exists"
+    }
+  },
+  "connect": []
+}

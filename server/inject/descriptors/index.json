@@ -1,5 +1,6 @@
 [
   "login.json",
   "landingpage.json",
-  "dashboard.json"
+  "dashboard.json",
+  "mytasks.json"
 ]
