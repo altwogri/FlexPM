@@ -20,7 +20,8 @@
     "sessionid": {
       "type": "string",
       "selector": "script",
-      "control": "text"
+      "control": "text",
+      "selectContains": "fivCommon"
     }
   },
   "connect": []
