@@ -5,6 +5,14 @@
       "type": "identifier",
       "selector": "#ctl00_MainContent_lblTskSection",
       "control": "exists"
+    },
+    "task": {
+      "type": "array",
+      "selectorAll": "tr",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
     }
   },
   "connect": []
