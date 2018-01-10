@@ -11,7 +11,14 @@
       "selectorAll": "tr",
       "items": {
         "type": "object",
-        "properties": {}
+        "properties": {
+          "task": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 1
+          }
+        }
       }
     }
   },
