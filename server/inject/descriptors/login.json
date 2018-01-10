@@ -13,7 +13,7 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": "form.title",
+      "selector": ".form-title",
       "control": "exists",
       "selectContains": "Login"
     },
