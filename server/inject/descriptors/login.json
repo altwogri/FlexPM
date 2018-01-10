@@ -22,9 +22,9 @@
       "control": "action.button"
     },
     "islogin": {
-      "type": "string",
+      "type": "identifier",
       "selector": "body",
-      "control": "property.innerText",
+      "control": "exists",
       "selectContains": "Login.aspx"
     }
   },
