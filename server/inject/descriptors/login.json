@@ -12,10 +12,12 @@
       "selector": "#ctl00_MainContent_password"
     },
     "sessionid": {
-      "type": "select",
+      "type": "string",
       "frameSelector": [
         null
-      ]
+      ],
+      "selector": "#ctl00_MainContent_login",
+      "control": "exists"
     },
     "submit": {
       "type": "action",
