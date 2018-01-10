@@ -13,5 +13,13 @@
       "selectContains": "Development"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "islanding"
+      ],
+      "action": "clicktasks",
+      "model": "landingpage"
+    }
+  ]
 }
