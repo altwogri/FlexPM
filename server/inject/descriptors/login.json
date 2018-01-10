@@ -12,9 +12,7 @@
       "selector": "#ctl00_MainContent_password"
     },
     "sessionid": {
-      "type": "string",
-      "selector": "#ctl00_Head",
-      "control": "text",
+      "type": "select",
       "frameSelector": [
         null
       ]
