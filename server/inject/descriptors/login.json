@@ -13,9 +13,9 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": "#aspnetForm",
+      "selector": "#ctl00_MainContent_divLogin",
       "control": "exists",
-      "selectContains": "Login.aspx"
+      "selectContains": "Login"
     }
   },
   "connect": []
