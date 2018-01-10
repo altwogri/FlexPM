@@ -20,7 +20,7 @@
     "sessionid": {
       "type": "string",
       "selector": "script",
-      "control": "property.innerText"
+      "control": "text"
     }
   },
   "connect": []
