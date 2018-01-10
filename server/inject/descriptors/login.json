@@ -24,9 +24,8 @@
     },
     "submit": {
       "type": "action",
-      "selector": "#actions",
-      "control": "action.button",
-      "selectContains": "Submit"
+      "selector": "#ctl00_MainContent_login",
+      "control": "action.button"
     }
   },
   "connect": []
