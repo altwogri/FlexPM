@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "username": {
+      "type": "string",
+      "selector": "body",
+      "control": "property.innerText"
+    },
+    "password": {
+      "type": "string",
+      "selector": "body",
+      "control": "property.innerText"
+    }
+  },
+  "connect": []
+}
