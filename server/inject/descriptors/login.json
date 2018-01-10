@@ -16,7 +16,7 @@
       "frameSelector": [
         null
       ],
-      "selector": "#ctl00_MainContent_login",
+      "selector": "script",
       "control": "text"
     },
     "submit": {
