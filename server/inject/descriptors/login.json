@@ -4,8 +4,7 @@
     "username": {
       "type": "string",
       "selector": "#ctl00_MainContent_name",
-      "control": "property.innerText",
-      "selectContains": "username"
+      "control": "property.innerText"
     },
     "password": {
       "type": "string",
