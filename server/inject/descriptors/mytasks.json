@@ -16,6 +16,12 @@
             "type": "string",
             "selector": ".dxgv",
             "control": "property.innerText"
+          },
+          "topic": {
+            "type": "string",
+            "selector": ".dxgv",
+            "control": "property.innerText",
+            "selectIndex": 1
           }
         }
       }
