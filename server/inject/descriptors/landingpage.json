@@ -8,8 +8,9 @@
     },
     "clicktasks": {
       "type": "action",
-      "selector": ".dxtv-nd",
-      "control": "action.link"
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "goToSectionTask('My')"
     }
   },
   "connect": [
