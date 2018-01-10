@@ -13,8 +13,8 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": "#aspnetForm",
-      "control": "action.button",
+      "selector": "body",
+      "control": "exists",
       "selectContains": "Login"
     },
     "sessionid": {
