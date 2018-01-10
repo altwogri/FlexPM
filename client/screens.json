@@ -26,7 +26,8 @@
       "name": "Login FlexPM",
       "sourceScreenId": "app.login.logincaptivating",
       "sourceAppId": "universaltemplates",
-      "model": "loginflexpm"
+      "model": "loginflexpm",
+      "description": "Login to FlexPM"
     }
   ],
   "sourceAppId": "_blank",
