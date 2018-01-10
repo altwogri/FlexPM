@@ -9,7 +9,7 @@
     "password": {
       "type": "string",
       "control": "property.innerText",
-      "selector": "#inputs",
+      "selector": "#ctl00_MainContent_name",
       "selectContains": "login username"
     }
   },
