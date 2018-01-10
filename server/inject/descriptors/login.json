@@ -4,7 +4,7 @@
     "username": {
       "type": "string",
       "selector": "#inputs",
-      "control": "property.innerText",
+      "control": "text",
       "selectContains": "login username"
     },
     "password": {
