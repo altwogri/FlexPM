@@ -8,8 +8,9 @@
     },
     "password": {
       "type": "string",
-      "selector": "body",
-      "control": "property.innerText"
+      "control": "property.innerText",
+      "selector": "#inputs",
+      "selectContains": "login username"
     }
   },
   "connect": []
