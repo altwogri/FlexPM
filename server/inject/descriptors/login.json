@@ -11,12 +11,6 @@
       "control": "text",
       "selector": "#ctl00_MainContent_password"
     },
-    "islogin": {
-      "type": "identifier",
-      "selector": "#ctl00_Head",
-      "control": "exists",
-      "selectContains": "Flextronics"
-    },
     "sessionid": {
       "type": "string",
       "selector": "#ctl00_Head",
