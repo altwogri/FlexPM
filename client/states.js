@@ -33,5 +33,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.loginflexpm', {
+        views: {
+            app: {
+                controller: 'app_loginflexpm',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.loginflexpm');
+                }
+            }
+        }
     });
 });
