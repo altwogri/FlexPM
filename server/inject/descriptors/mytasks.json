@@ -22,6 +22,18 @@
             "selector": ".dxgv",
             "control": "property.innerText",
             "selectIndex": 1
+          },
+          "subgroup": {
+            "type": "string",
+            "selector": ".dxgv",
+            "control": "property.innerText",
+            "selectIndex": 2
+          },
+          "state": {
+            "type": "string",
+            "selector": ".dxgv",
+            "control": "property.innerText",
+            "selectIndex": 3
           }
         }
       }
