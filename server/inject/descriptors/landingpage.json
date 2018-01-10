@@ -9,8 +9,7 @@
     "clicktasks": {
       "type": "action",
       "selector": ".icon-DevelopmentTask",
-      "control": "action.link",
-      "selectContains": "Development"
+      "control": "action.link"
     }
   },
   "connect": [
