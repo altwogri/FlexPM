@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "isdashboard": {
+      "type": "identifier",
+      "selector": "#page-heading",
+      "control": "exists",
+      "selectContains": "Dashboard"
+    }
+  },
+  "connect": []
+}
