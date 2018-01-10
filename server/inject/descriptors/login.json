@@ -3,7 +3,7 @@
   "properties": {
     "username": {
       "type": "string",
-      "selector": "#inputs",
+      "selector": "div",
       "control": "property.innerText",
       "selectContains": "username"
     },
