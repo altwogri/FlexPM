@@ -13,7 +13,7 @@
     },
     "sessionid": {
       "type": "string",
-      "selector": "title",
+      "selector": "#ctl00_Head",
       "control": "text",
       "frameSelector": [
         null
