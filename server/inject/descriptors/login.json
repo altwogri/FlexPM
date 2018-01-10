@@ -13,7 +13,7 @@
     },
     "islogin": {
       "type": "identifier",
-      "selector": "body",
+      "selector": "#aspnetForm",
       "control": "exists",
       "selectContains": "Login.aspx"
     }
