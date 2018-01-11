@@ -34,6 +34,11 @@
             "selector": ".dxgv",
             "control": "property.innerText",
             "selectIndex": 3
+          },
+          "action": {
+            "type": "action",
+            "selector": "body",
+            "control": "property.innerText"
           }
         }
       }
