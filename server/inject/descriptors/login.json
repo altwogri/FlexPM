@@ -11,14 +11,6 @@
       "control": "text",
       "selector": "#ctl00_MainContent_password"
     },
-    "sessionid": {
-      "type": "string",
-      "frameSelector": [
-        null
-      ],
-      "selector": "script",
-      "control": "text"
-    },
     "submit": {
       "type": "action",
       "selector": "#ctl00_MainContent_login",
