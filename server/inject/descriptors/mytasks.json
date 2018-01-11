@@ -31,7 +31,7 @@
           }
         }
       },
-      "selectorAll": ".dxgvTable_PlasticBlue"
+      "selectorAll": ".dxgvDataRow_PlasticBlue"
     }
   },
   "connect": [
