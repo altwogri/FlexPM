@@ -16,7 +16,7 @@
           },
           "task": {
             "type": "string",
-            "selector": "tr",
+            "selector": "td",
             "selectIndex": 3,
             "control": "property.innerText"
           },
