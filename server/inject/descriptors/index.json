@@ -2,5 +2,6 @@
   "login.json",
   "landingpage.json",
   "dashboard.json",
-  "mytasks.json"
+  "mytasks.json",
+  "loginflexpm.json"
 ]
