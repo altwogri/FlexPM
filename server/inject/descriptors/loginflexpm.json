@@ -33,7 +33,7 @@
         "type": "none"
       },
       "selector": "#ctl00_MainContent_err",
-      "control": "text"
+      "control": "property.innerText"
     },
     "submit": {
       "type": "action",
