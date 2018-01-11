@@ -23,7 +23,7 @@
     },
     {
       "id": "loginflexpm",
-      "name": "Login FlexPM",
+      "name": "LoginFlexPM",
       "sourceScreenId": "app.login.logincaptivating",
       "sourceAppId": "universaltemplates",
       "model": "loginflexpm",
