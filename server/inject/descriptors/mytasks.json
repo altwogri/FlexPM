@@ -42,6 +42,7 @@
   "connect": [
     {
       "match": [
+        "ismytasks",
         "ismytasks"
       ],
       "screens": [
