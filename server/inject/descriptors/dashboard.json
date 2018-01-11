@@ -3,9 +3,9 @@
   "properties": {
     "isdashboard": {
       "type": "identifier",
-      "selector": ".dxtv-ndTxt.dx-vam",
+      "selector": "#page-heading",
       "control": "exists",
-      "selectContains": "My Tasks"
+      "selectContains": "Dashboard"
     },
     "clickmytasks": {
       "type": "action",
