@@ -57,7 +57,10 @@
             },
             "task": {
               "type": "string",
-              "label": "Subject"
+              "label": "Subject",
+              "update": {
+                "type": "none"
+              }
             },
             "topic": {
               "type": "string",

@@ -1,34 +1,34 @@
 {
   "mytasks": [
     {
-      "task": "Subject Line 1",
-      "topic": "from1@test.com",
-      "subgroup": "Dec 01, 2016",
-      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "12345-01",
+      "topic": "This is the first task topic for testing - user altwogri",
+      "subgroup": "Baan 5",
+      "state": "Solution Approval"
     },
     {
-      "task": "Subject Line 2",
-      "topic": "from2@test.com",
-      "subgroup": "Dec 01, 2016",
-      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "23456-02",
+      "topic": "Second Task to test the app :-)",
+      "subgroup": "Infor LN",
+      "state": "In Group Queue"
     },
     {
-      "task": "Subject Line 3",
-      "topic": "from3@test.com",
-      "subgroup": "Dec 01, 2016",
-      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "34567-03",
+      "topic": "Another task in development",
+      "subgroup": "Baan 5",
+      "state": "In Developer Queue"
     },
     {
-      "task": "Subject Line 4",
-      "topic": "from4@test.com",
-      "subgroup": "Dec 01, 2016",
-      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "456789-04",
+      "topic": "Test Task",
+      "subgroup": "Baan 5",
+      "state": "In Development"
     },
     {
-      "task": "Subject Line 5",
-      "topic": "from5@test.com",
-      "subgroup": "Dec 01, 2016",
-      "state": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "task": "567890-05",
+      "topic": "Task 5",
+      "subgroup": "Baan 5",
+      "state": "Testing"
     }
   ]
 }
