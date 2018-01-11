@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "10dd2e2f",
   "uiCommonVersion": "5.2.10",
-  "creatorId": "altwogri"
+  "creatorId": "altwogri",
+  "id": "flexpm_2",
+  "previewImageURL": "/previews/10dd2e2f-flexpm_2/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/altwogri/FlexPM",
+  "creatorName": "Wolfram Ogris",
+  "sdks": []
 }

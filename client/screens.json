@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "flexpm_2",
-  "startScreen": "app.blank",
+  "startScreen": "app.loginflexpm",
   "screens": [
     {
       "id": "blank",
