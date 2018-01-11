@@ -16,7 +16,7 @@
           },
           "task": {
             "type": "string",
-            "selector": "tr",
+            "selector": ".dxgv",
             "selectIndex": 1,
             "control": "text"
           },
