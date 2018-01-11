@@ -17,7 +17,7 @@
           "task": {
             "type": "string",
             "selector": ".dxgvCSD",
-            "selectIndex": 1,
+            "selectIndex": 3,
             "control": "property.innerText"
           },
           "topic": {
