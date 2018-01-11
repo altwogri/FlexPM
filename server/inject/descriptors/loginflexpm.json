@@ -31,7 +31,9 @@
       "label": "errorMessage",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "#ctl00_MainContent_err",
+      "control": "text"
     },
     "submit": {
       "type": "action",
