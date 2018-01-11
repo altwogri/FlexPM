@@ -4,7 +4,8 @@
     "isdashboard": {
       "type": "identifier",
       "selector": ".dxtv-ndTxt.dx-vam",
-      "control": "exists"
+      "control": "exists",
+      "selectContains": "My Tasks"
     },
     "clickmytasks": {
       "type": "action",
