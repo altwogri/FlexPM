@@ -6,39 +6,25 @@
       "selector": "#ctl00_MainContent_lblTskSection",
       "control": "exists"
     },
-    "task": {
+    "mytasks": {
       "type": "array",
-      "selectorAll": "tr",
       "items": {
         "type": "object",
         "properties": {
+          "action": {
+            "type": "action"
+          },
           "task": {
-            "type": "string",
-            "selector": ".dxgv",
-            "control": "property.innerText"
+            "type": "string"
           },
           "topic": {
-            "type": "string",
-            "selector": ".dxgv",
-            "control": "property.innerText",
-            "selectIndex": 1
+            "type": "string"
           },
           "subgroup": {
-            "type": "string",
-            "selector": ".dxgv",
-            "control": "property.innerText",
-            "selectIndex": 2
+            "type": "string"
           },
           "state": {
-            "type": "string",
-            "selector": ".dxgv",
-            "control": "property.innerText",
-            "selectIndex": 3
-          },
-          "action": {
-            "type": "action",
-            "selector": "body",
-            "control": "property.innerText"
+            "type": "string"
           }
         }
       }
