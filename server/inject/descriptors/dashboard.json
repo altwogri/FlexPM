@@ -18,6 +18,7 @@
     {
       "match": [
         "isdashboard",
+        "isdashboard",
         "isdashboard"
       ],
       "action": "clickmytasks",
