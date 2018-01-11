@@ -16,7 +16,9 @@
   },
   "connect": [
     {
-      "match": [],
+      "match": [
+        "isdashboard"
+      ],
       "action": "clickmytasks"
     }
   ]
