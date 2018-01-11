@@ -20,7 +20,9 @@
             "control": "property.innerText"
           },
           "topic": {
-            "type": "string"
+            "type": "string",
+            "selector": "td",
+            "selectIndex": 1
           },
           "subgroup": {
             "type": "string"
