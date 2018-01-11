@@ -16,7 +16,7 @@
           },
           "task": {
             "type": "string",
-            "selector": ".dxgvCSD",
+            "selector": ".dxgvDataRow_PlasticBlue",
             "selectIndex": 3,
             "control": "text"
           },
