@@ -34,7 +34,9 @@
       }
     },
     "submit": {
-      "type": "action"
+      "type": "action",
+      "selector": "#ctl00_MainContent_login",
+      "control": "action.button"
     },
     "islogin": {
       "type": "identifier",
