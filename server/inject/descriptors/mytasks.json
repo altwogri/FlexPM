@@ -18,7 +18,7 @@
             "type": "string",
             "selector": "tr",
             "selectIndex": 1,
-            "control": "property.innerText"
+            "control": "text"
           },
           "topic": {
             "type": "string"
