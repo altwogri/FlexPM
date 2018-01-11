@@ -18,7 +18,7 @@
             "type": "string",
             "selector": ".dxgv",
             "selectIndex": 1,
-            "control": "text"
+            "control": "property.innerText"
           },
           "topic": {
             "type": "string"
