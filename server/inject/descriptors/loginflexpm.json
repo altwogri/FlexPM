@@ -22,7 +22,9 @@
         "action": [
           "submit"
         ]
-      }
+      },
+      "selector": "#ctl00_MainContent_password",
+      "control": "text"
     },
     "errorMessage": {
       "type": "string",
