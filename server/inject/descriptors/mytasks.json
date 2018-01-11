@@ -15,7 +15,10 @@
             "type": "action"
           },
           "task": {
-            "type": "string"
+            "type": "string",
+            "selector": ".dxgvDataRow_PlasticBlue",
+            "selectIndex": 1,
+            "control": "property.innerText"
           },
           "topic": {
             "type": "string"
