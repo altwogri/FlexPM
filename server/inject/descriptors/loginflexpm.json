@@ -43,6 +43,11 @@
           "type": "string"
         }
       }
+    },
+    "islogin": {
+      "type": "identifier",
+      "selector": "#ctl00_MainContent_login",
+      "control": "exists"
     }
   },
   "connect": []
