@@ -10,7 +10,9 @@
         "action": [
           "submit"
         ]
-      }
+      },
+      "selector": "#ctl00_MainContent_name",
+      "control": "text"
     },
     "password": {
       "type": "string",
