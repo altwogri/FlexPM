@@ -16,8 +16,8 @@
           },
           "task": {
             "type": "string",
-            "selector": "tr",
-            "selectIndex": 3,
+            "selector": "td",
+            "selectIndex": 1,
             "control": "property.innerText"
           },
           "topic": {
