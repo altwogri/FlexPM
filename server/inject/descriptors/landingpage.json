@@ -8,9 +8,8 @@
     },
     "clicktasks": {
       "type": "action",
-      "selector": "a",
-      "control": "action.link",
-      "selectContains": "My Tasks"
+      "selector": ".icon-DevelopmentTask",
+      "control": "action.link"
     }
   },
   "connect": [
