@@ -11,9 +11,6 @@
       "items": {
         "type": "object",
         "properties": {
-          "action": {
-            "type": "action"
-          },
           "task": {
             "type": "string",
             "selector": "td",
