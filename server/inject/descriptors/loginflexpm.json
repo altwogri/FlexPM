@@ -34,15 +34,7 @@
       }
     },
     "submit": {
-      "type": "action",
-      "parameters": {
-        "username": {
-          "type": "string"
-        },
-        "password": {
-          "type": "string"
-        }
-      }
+      "type": "action"
     },
     "islogin": {
       "type": "identifier",
