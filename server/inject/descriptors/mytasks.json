@@ -17,7 +17,6 @@
           "task": {
             "type": "string",
             "selector": "td",
-            "selectIndex": 1,
             "control": "property.innerText"
           },
           "topic": {
