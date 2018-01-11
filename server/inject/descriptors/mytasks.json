@@ -32,7 +32,10 @@
             "control": "property.innerText"
           },
           "state": {
-            "type": "string"
+            "type": "string",
+            "selector": "td",
+            "selectIndex": 3,
+            "control": "property.innerText"
           }
         }
       },
