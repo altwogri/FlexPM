@@ -3,7 +3,7 @@
   "properties": {
     "islanding": {
       "type": "identifier",
-      "selector": ".main_container",
+      "selector": ".icon-DevelopmentTask",
       "control": "exists"
     },
     "clicktasks": {
