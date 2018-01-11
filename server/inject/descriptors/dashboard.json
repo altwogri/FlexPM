@@ -19,7 +19,8 @@
       "match": [
         "isdashboard"
       ],
-      "action": "clickmytasks"
+      "action": "clickmytasks",
+      "model": "dashboard"
     }
   ]
 }
