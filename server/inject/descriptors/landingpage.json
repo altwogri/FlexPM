@@ -15,6 +15,7 @@
   "connect": [
     {
       "match": [
+        "islanding",
         "islanding"
       ],
       "action": "clicktasks",
