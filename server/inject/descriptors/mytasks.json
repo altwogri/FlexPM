@@ -39,5 +39,14 @@
       }
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "ismytasks"
+      ],
+      "screens": [
+        "mytasks"
+      ]
+    }
+  ]
 }
