@@ -1,26 +1,26 @@
 {
   "mytasks": [
     {
-      "task": "12345-01",
-      "topic": "This is the first task topic for testing - user altwogri",
+      "task": "123456-01",
+      "topic": "This is the first task topic for testing the mobile app for FlexPM web application.",
       "subgroup": "Baan 5",
       "state": "Solution Approval"
     },
     {
-      "task": "23456-02",
-      "topic": "Second Task to test the app :-)",
+      "task": "234567-02",
+      "topic": "Second Task to test the app - another task in status \"Solution Approval\" status",
       "subgroup": "Infor LN",
-      "state": "In Group Queue"
+      "state": "Solution Approval"
     },
     {
-      "task": "34567-03",
-      "topic": "Another task in development",
+      "task": "345678-03",
+      "topic": "Another task in status 'Management Approval' to test the functionality...",
       "subgroup": "Baan 5",
-      "state": "In Developer Queue"
+      "state": "Management Approval"
     },
     {
       "task": "456789-04",
-      "topic": "Test Task",
+      "topic": "Test Task, very short Topic",
       "subgroup": "Baan 5",
       "state": "In Development"
     },
@@ -29,6 +29,12 @@
       "topic": "Task 5",
       "subgroup": "Baan 5",
       "state": "Testing"
+    },
+    {
+      "task": "678900-06",
+      "topic": "Another short task",
+      "subgroup": "Baan IV",
+      "state": "UAT"
     }
   ]
 }

@@ -58,7 +58,10 @@
             },
             "topic": {
               "type": "string",
-              "label": "From"
+              "label": "From",
+              "update": {
+                "type": "none"
+              }
             },
             "subgroup": {
               "type": "string",
