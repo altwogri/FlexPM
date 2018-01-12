@@ -14,7 +14,7 @@
     "topic": {
       "type": "string",
       "selector": "#ctl00_MainContent_ffdTSF0009",
-      "control": "property.innerText"
+      "control": "text"
     }
   },
   "connect": []
