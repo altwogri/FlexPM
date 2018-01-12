@@ -19,6 +19,7 @@
       "match": [
         "isdashboard",
         "isdashboard",
+        "isdashboard",
         "isdashboard"
       ],
       "action": "clickmytasks",
