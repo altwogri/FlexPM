@@ -12,6 +12,11 @@
       "selector": ".dxtv-nd",
       "control": "action.link",
       "selectContains": "My"
+    },
+    "dashboarddescriptor": {
+      "type": "descriptor",
+      "selector": "body",
+      "control": "property.innerText"
     }
   },
   "connect": [
