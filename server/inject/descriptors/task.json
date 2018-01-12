@@ -13,8 +13,9 @@
     },
     "topic": {
       "type": "string",
-      "selector": "#ctl00_MainContent_ffdTSF0009",
-      "control": "text"
+      "selector": "#ctl00_MainContent_divTSF0009",
+      "control": "text",
+      "selectContains": "Topic:"
     }
   },
   "connect": []
