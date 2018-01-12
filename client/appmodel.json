@@ -45,7 +45,7 @@
   },
   "mytasks": {
     "type": "object",
-    "comment": "Messages",
+    "comment": "MyTasks",
     "properties": {
       "mytasks": {
         "type": "array",
