@@ -10,6 +10,11 @@
       "type": "string",
       "selector": "#ctl00_MainContent_taskNo",
       "control": "property.innerText"
+    },
+    "topic": {
+      "type": "string",
+      "selector": "#ctl00_MainContent_ffdTSF0009",
+      "control": "property.innerText"
     }
   },
   "connect": []
