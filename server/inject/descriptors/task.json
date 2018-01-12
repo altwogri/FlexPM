@@ -1,5 +1,12 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "istask": {
+      "type": "identifier",
+      "selector": "title",
+      "control": "exists",
+      "selectContains": "FlexPM :: Task"
+    }
+  },
   "connect": []
 }
