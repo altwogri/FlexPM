@@ -53,7 +53,8 @@
       ],
       "screens": [
         "loginflexpm"
-      ]
+      ],
+      "model": "loginflexpm"
     }
   ]
 }
