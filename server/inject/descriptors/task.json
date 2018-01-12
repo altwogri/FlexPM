@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "#ctl00_MainContent_TaskTask",
       "control": "exists"
+    },
+    "task": {
+      "type": "string",
+      "selector": "#ctl00_MainContent_taskNo",
+      "control": "property.innerText"
     }
   },
   "connect": []
