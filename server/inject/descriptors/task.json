@@ -3,9 +3,8 @@
   "properties": {
     "istask": {
       "type": "identifier",
-      "selector": "title",
-      "control": "exists",
-      "selectContains": "FlexPM :: Task"
+      "selector": "#ctl00_MainContent_TaskTask",
+      "control": "exists"
     }
   },
   "connect": []
