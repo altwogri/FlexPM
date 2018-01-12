@@ -54,10 +54,7 @@
           "properties": {
             "task": {
               "type": "string",
-              "label": "Subject",
-              "update": {
-                "type": "none"
-              }
+              "label": "Subject"
             },
             "topic": {
               "type": "string",
@@ -69,7 +66,10 @@
             },
             "state": {
               "type": "string",
-              "label": "MessageContent"
+              "label": "MessageContent",
+              "update": {
+                "type": "none"
+              }
             }
           }
         },
