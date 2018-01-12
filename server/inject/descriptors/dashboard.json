@@ -12,10 +12,6 @@
       "selector": ".dxtv-nd",
       "control": "action.link",
       "selectContains": "My"
-    },
-    "dashboarddescriptor": {
-      "type": "descriptor",
-      "descriptor": "mytasks"
     }
   },
   "connect": [
