@@ -1,6 +1,12 @@
 {
   "mytasks": [
     {
+      "task": "112233-12",
+      "topic": "This is the first task topic for testing the mobile app for FlexPM web application, where status is 'Specification in progess'.",
+      "subgroup": "Baan 5",
+      "state": "Specification in Progress"
+    },
+    {
       "task": "123456-01",
       "topic": "This is the first task topic for testing the mobile app for FlexPM web application.",
       "subgroup": "Baan 5",
