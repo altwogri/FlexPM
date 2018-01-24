@@ -4,17 +4,17 @@ function app_mytasks($scope, app) {
     app.init($scope);
 }
 
-/* exports.login = function (page,params) {
+function approve_task(page,params) {
     var xmlhttp = new XMLHttpRequest();
     var url = "https://flexpm-it.flextronics.com:8015/service.asmx?op=PerformWFAction";
-    var reqResponse = [];
+    var reqResponse = "";
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             var response = JSON.parse(this.responseText);
         }
     };
     xmlhttp.open("POST", url, false);
-    xmlhttp.send(params);
+    xmlhttp.send("UserAD=data.username&Group='Infor ERP'&TaskNo=item.task&Action='PDA done'");
 
     //Is the below method is used to pass the response to the next page?
     // page.data(function(data) {
@@ -22,4 +22,3 @@ function app_mytasks($scope, app) {
     // })
     //     .screen("result");
 }
-*/
