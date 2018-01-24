@@ -4,16 +4,13 @@ function app_mytasks($scope, app) {
     app.init($scope);
 }
 
-exports.login = function (page,params) {
+/* exports.login = function (page,params) {
     var xmlhttp = new XMLHttpRequest();
     var url = "https://flexpm-it.flextronics.com:8015/service.asmx?op=PerformWFAction";
     var reqResponse = [];
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             var response = JSON.parse(this.responseText);
-            // for (var i = 0; i < response.length; i++) {
-            //     reqResponse[i] = {'name': response[i].name,'email':response[i].email,'phone':response[i].phone,'username':response[i].username,'website':response[i].website};
-            // }
         }
     };
     xmlhttp.open("POST", url, false);
@@ -25,3 +22,4 @@ exports.login = function (page,params) {
     // })
     //     .screen("result");
 }
+*/
