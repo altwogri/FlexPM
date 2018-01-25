@@ -5,7 +5,7 @@ function app_mytasks($scope, app) {
 }
 
 //function approve_task(page,params) {
-$scope.approve_task = function () {
+$scope.approveTask = function () {
     var xmlhttp = new XMLHttpRequest();
     var url = "https://flexpm-it.flextronics.com:8015/service.asmx?op=PerformWFAction";
     var reqResponse = "";
