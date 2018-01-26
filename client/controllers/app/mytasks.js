@@ -4,8 +4,8 @@ function app_mytasks($scope, app) {
     app.init($scope);
 }
 
-angular.module('app').controller('approveTask', sendData);
-function sendData($scope) {
+angular.module('app').controller('approveTask', approveTask);
+function approveTask() {
     $http({
         url: 'https://flexpm-it.flextronics.com:8015/service.asmx?op=PerformWFAction',
         method: 'POST',
@@ -15,7 +15,6 @@ function sendData($scope) {
                 TaskNo : task,
                 Action : 'PDA done'
         }
-        //UserAD=data.username&Group='Infor%20ERP'&TaskNo=item.task&Action='PDA%20done
     })
     .then(function(response) {
             // success
