@@ -4,7 +4,7 @@ function app_mytasks($scope, app) {
     app.init($scope);
 }
 
-angular.module('app').controller('sendData', sendData);
+angular.module('app').controller('approveTask', sendData);
 function sendData($scope) {
     $http({
         url: 'https://flexpm-it.flextronics.com:8015/service.asmx?op=PerformWFAction',
