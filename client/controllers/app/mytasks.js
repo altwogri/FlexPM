@@ -4,6 +4,27 @@ function app_mytasks($scope, app) {
     app.init($scope);
 }
 
+angular.module('app').controller('sendData', sendData);
+function sendData($scope) {
+    $http({
+        url: 'https://flexpm-it.flextronics.com:8015/service.asmx?op=PerformWFAction',
+        method: 'POST',
+        headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+        data: { UserAD : username,
+                Group : 'Infor ERP',
+                TaskNo : task,
+                Action : 'PDA done'
+        }
+        //UserAD=data.username&Group='Infor%20ERP'&TaskNo=item.task&Action='PDA%20done
+    })
+    .then(function(response) {
+            // success
+    }, 
+    function(response) { // optional
+            // failed
+    });
+}
+/*
 //function approve_task(page,params) {
     $scope.approveTask = function () {
         var xmlhttp = new XMLHttpRequest();
@@ -23,3 +44,4 @@ function app_mytasks($scope, app) {
     // })
     //     .screen("result");
 }
+*/
